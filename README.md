@@ -1,5 +1,5 @@
 # CRAF: A Clinical Reasoning-Adaptive Framework via Reinforcement Learning for Similar Case Retrieval
-Official PyTorch implementation of the paper "A Multimodal AI Copilot for Interactive and Scalable Cytology" and the code will coming soon. 🎈
+Official PyTorch implementation of the paper "CRAF: A Clinical Reasoning-Adaptive Framework via Reinforcement Learning for Similar Case Retrieval" and the code will coming soon. 🎈
 
 ## Overview
 
@@ -12,5 +12,5 @@ With the advancement of information retrieval (IR) technologies toward deep sema
 ### Usage Terms
 - **Research Use**: Permitted for academic and non-commercial research purposes
 - **Commercial Use**: Requires explicit permission from the authors
-- **Attribution**: Must cite the original paper when using this work *(Publication details are pending)*
+- **Attribution**: Must cite the original paper when using this work
 - **Redistribution**: Limited to non-commercial educational purposes
